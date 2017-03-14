@@ -692,7 +692,7 @@ A curated list of awesome Go frameworks, libraries and software.
 * [yyyar/gobetween](https://github.com/yyyar/gobetween) - :cloud: Modern & minimalistic load balancer for the Сloud era
 * [goamz/goamz](https://github.com/goamz/goamz) - Amazon AWS Library for Go
 * [hellofresh/janus](https://github.com/hellofresh/janus) - An Api Gateway written in Go
-* [davelondon/jennifer](https://github.com/davelondon/jennifer) - Jennifer is a code generator for go
+* [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for go
 * [sogko/slumber](https://github.com/sogko/slumber) - A complete REST API server written in golang / go
 * [Go-zh/go](https://github.com/Go-zh/go) - Go 编程语言中文翻译
 * [go-gl/gl](https://github.com/go-gl/gl) - Go bindings for OpenGL (generated via glow)
